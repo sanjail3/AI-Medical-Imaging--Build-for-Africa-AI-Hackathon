@@ -1,0 +1,8 @@
+streamlit
+pandas
+tensorflow
+fpdf
+pandas_profiling
+csv
+pathlib
+numpy
